@@ -5,6 +5,7 @@ import fs from 'fs';
 async function main() {
     const listCat = [
         'https://vneconomy.vn/chinh-sach-bat-dong-san.htm',
+        'https://cafef.vn/bat-dong-san.chn'
     ];
 
     const allData = [];
